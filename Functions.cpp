@@ -2,6 +2,7 @@
 
 using namespace std;
 
+// Print Main Menu to screen
 void showMainMenu()
 {
 	cout<<"========== Main =========="<<endl;
@@ -11,6 +12,7 @@ void showMainMenu()
 	cout<<">> ";
 }
 
+// Print Game Menu to screen
 void showLightsOutMenu()
 {
 	cout<<"========== Lights Out =========="<<endl;
