@@ -3,6 +3,8 @@
 
 using namespace std;
 
+//test comment
+
 int main()
 {
 	LightsOut LO;				
